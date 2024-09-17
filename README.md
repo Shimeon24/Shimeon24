@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shimeon24
 - 👀 I’m interested in Computer systems and technology
 - 🌱 I’m currently learning Coding and learning which language i am good at.
-- 💞️ I’m looking to collaborate ond learnign how to code better
+- 💞️ I’m looking to collaborate ond learnig how to code better
 - 📫 How to reach me Shimeonwilliams@gmail.com
 
 <!---
